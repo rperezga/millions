@@ -1,0 +1,16 @@
+{
+  "name": "millions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "puppeteer": "^1.13.0"
+  }
+}
